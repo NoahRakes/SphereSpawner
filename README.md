@@ -1,1 +1,1 @@
-# SphereSpawner
+# QT  practice: 3d world and spawner.
